@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 1 HD (B)" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 1 HD (B)
+http://mxonlive.xyz/live/xap/443953.m3u8?e=1783288777&token=735afa54e65d9c5789453466a9eb6a3e92600b20d8197c694c788c59a91c5f5a
 #EXTINF:0 tvg-id="ext" group-title="Channels",JagoNews24 Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ekattor HD

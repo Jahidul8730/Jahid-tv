@@ -1,6 +1,93 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 1 HD" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 1 HD
+http://mxonlive.xyz/live/xap/443952.m3u8?e=1783288777&token=a2b5a7ad80a004941149244afd5bd112e743ec15a3fd834f73febe5888292fd3
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 1 FHD" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 1 FHD
+http://mxonlive.xyz/live/xap/443950.m3u8?e=1783288777&token=5f9f1af0de1074eca3f8ba173d74ec20c033f04b03acb866e8a6c8a79dd359c9
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 1 FHD (B)" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 1 FHD (B)
+http://mxonlive.xyz/live/xap/443951.m3u8?e=1783288777&token=b15d1aad5431b627a562b815771a050fd374ead7a816fa83d07e9279da15d19d
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 1 HD (B)" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 1 HD (B)
 http://mxonlive.xyz/live/xap/443953.m3u8?e=1783288777&token=735afa54e65d9c5789453466a9eb6a3e92600b20d8197c694c788c59a91c5f5a
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 1 SD" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 1 SD
+http://mxonlive.xyz/live/xap/443954.m3u8?e=1783288777&token=d4013636683e2c50bdd8d782deaece75588682da9fa981714ef35e1c91214dce
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 1 SD (B)" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 1 SD (B)
+http://mxonlive.xyz/live/xap/443955.m3u8?e=1783288777&token=4816bb3ad6be7ec3b654df45617b76c3843274f98cf49e4c87b4dd5acc8058e7
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 2 FHD" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 2 FHD
+http://mxonlive.xyz/live/xap/443956.m3u8?e=1783288777&token=de0d9b9a973c8b1f980a115d7f3d8e953eb20b9995622fefa70fe8f13a3c0d6d
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 2 FHD (B)" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 2 FHD (B)
+http://mxonlive.xyz/live/xap/443957.m3u8?e=1783288777&token=4e1f87719cc8a3679c0bc49873013cf6fad4047bec07ebc2da15295f5fc5016c
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 2 HD" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 2 HD
+http://mxonlive.xyz/live/xap/443958.m3u8?e=1783288777&token=714ccd05b9fa93b08df5ca0f4799d1b6e475b40c2e448e3e73c553469cfced92
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 2 HD (B)" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 2 HD (B)
+http://mxonlive.xyz/live/xap/443959.m3u8?e=1783288777&token=f9c2d3b0a6204be1eefa5f10abde38c78be06e1303672979d59924fb2fa1b8d9
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 2 SD" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 2 SD
+http://mxonlive.xyz/live/xap/443960.m3u8?e=1783288777&token=1daf875fb240f380cb19be7e397834679a60452bf7a8aafc4bd4740bedb612c7
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 2 SD (B)" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 2 SD (B)
+http://mxonlive.xyz/live/xap/443961.m3u8?e=1783288777&token=a26353b0caa78db347112a40e9477df689d2620f5bf739329f5b30c852d056de
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 3 FHD" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 3 FHD
+http://mxonlive.xyz/live/xap/443962.m3u8?e=1783288777&token=7fdb7baad975a3fac7cb0bc14277ee1b1038251795e2de5517eaae25bca320ad
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 3 FHD (B)" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 3 FHD (B)
+http://mxonlive.xyz/live/xap/443963.m3u8?e=1783288777&token=c36019a7b0ec88b8f9505389fc99a223aa7c3b3d5f562265084eb77dcc32c8f7
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 3 HD" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 3 HD
+http://mxonlive.xyz/live/xap/443964.m3u8?e=1783288777&token=ba9ac723f0f5f65efffb2035bcef0992f595d82f84ac87769b645ecb28033f46
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 3 HD (B)" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 3 HD (B)
+http://mxonlive.xyz/live/xap/443965.m3u8?e=1783288777&token=a22e87bb18450bbf15c1e193ed2061bab87204c0e3b2ea5e9dbffaeb35498b75
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 3 SD" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 3 SD
+http://mxonlive.xyz/live/xap/443966.m3u8?e=1783288777&token=0d259998c393188d2b3d772b669bc5bc3b516299335d1119ccb70e26d6895fbc
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 3 SD (B)" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 3 SD (B)
+http://mxonlive.xyz/live/xap/443967.m3u8?e=1783288777&token=82be11e2ff4ea9d8f8f24f61276b99c2327b5e6a5b884fe65e6cb2fcb2d4461d
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 4 FHD" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 4 FHD
+http://mxonlive.xyz/live/xap/443968.m3u8?e=1783288777&token=8a53976acf2e419d32dcfc4ecd4984489f5db3a1e60ba95e34b44c13695ed5fa
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 4 FHD (B)" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 4 FHD (B)
+http://mxonlive.xyz/live/xap/443969.m3u8?e=1783288777&token=2af10d851d13e52f85a42b124a97e779a58567bddfecccb72bfa0e26ce1baebf
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 4 HD" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 4 HD
+http://mxonlive.xyz/live/xap/443970.m3u8?e=1783288777&token=5cfc1ab9adbd4a47ff1bde7674650107720ecb0720baaa5f7ec668c20b0a19e3
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 4 HD (B)" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 4 HD (B)
+http://mxonlive.xyz/live/xap/443971.m3u8?e=1783288777&token=1f10f051065323162e3e9291ec3c76affb641f48cd809ee4e0b66be27dee21ce
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 4 SD" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 4 SD
+http://mxonlive.xyz/live/xap/443972.m3u8?e=1783288777&token=ab45c8246992a31f4c9f372159a33fd9902214221dbac28da18e0d42cacbedc5
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 4 SD (B)" tvg-logo="https://prod-media.beinsports.com/image/5878a7ab84fb43402106c575658472fa.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 4 SD (B)
+http://mxonlive.xyz/live/xap/443973.m3u8?e=1783288777&token=6cbe38ca6cf8d0f98338f09fb0d43316580ae6244d52ca70fadfe0529c028d45
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 5 FHD" tvg-logo="https://prod-media.beinsports.com/image/ca886eb9edb61a42256192745c72cd79.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 5 FHD
+http://mxonlive.xyz/live/xap/443974.m3u8?e=1783288777&token=ff786ec4e52b12d87da7b88d48052e50229111b4952806fb0773944467a84c7f
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 5 HD" tvg-logo="https://prod-media.beinsports.com/image/ca886eb9edb61a42256192745c72cd79.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 5 HD
+http://mxonlive.xyz/live/xap/443975.m3u8?e=1783288777&token=64931eb42b4b6d9e2b6fc9b88922c6c60df37f28fe5736a840186c47d74ef77e
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 5 SD" tvg-logo="https://prod-media.beinsports.com/image/ca886eb9edb61a42256192745c72cd79.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 5 SD
+http://mxonlive.xyz/live/xap/443976.m3u8?e=1783288777&token=c75bf3ab2a569bdadb4d880975f066d9de683d88fbec6e59942d5ef36c7b5803
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 6 FHD" tvg-logo="https://prod-media.beinsports.com/image/a1cb608a30fc2883eed0831dcf25f260.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 6 FHD
+http://mxonlive.xyz/live/xap/443977.m3u8?e=1783288777&token=ec4f8816c892345726ceda2a826ea2739e3e783adf2e9f0dcfd86f074553d846
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 6 HD" tvg-logo="https://prod-media.beinsports.com/image/a1cb608a30fc2883eed0831dcf25f260.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 6 HD
+http://mxonlive.xyz/live/xap/443978.m3u8?e=1783288777&token=6fb98ee925fd0f6dd10fc1816db2dcb24722f83d8cd29a17ec3a36e721cf4ac9
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 6 SD" tvg-logo="https://prod-media.beinsports.com/image/a1cb608a30fc2883eed0831dcf25f260.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 6 SD
+http://mxonlive.xyz/live/xap/443979.m3u8?e=1783288777&token=229804aaa49074150e59a8ce48a8081e9d6bd4ee8837288b5a77f2db611e5bb2
 #EXTINF:0 tvg-id="ext" group-title="Channels",JagoNews24 Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ekattor HD

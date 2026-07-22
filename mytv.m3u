@@ -1,0 +1,494 @@
+#EXTM3U
+
+===========================================
+=== BANGLA CHANNELS (বাংলা চ্যানেলসমূহ) ===
+===========================================
+
+#EXTINF:-1 tvg-id="star_jalsha" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starjalsha.png" group-title="Bangla",Star Jalsha
+http://172.19.0.18:5000/stream/cloudtv-star-jalsha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/atnbangla.png" group-title="Bangla",ATN Bangla
+http://172.19.0.18:5000/stream/cloudtv-atn-bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="asian_tv" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/asian.png" group-title="Bangla",Asian TV
+http://172.19.0.18:5000/stream/cloudtv-asian/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bangla_tv" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/banglatv.png" group-title="Bangla",Bangla TV
+http://172.19.0.18:5000/stream/cloudtv-bangla-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="boishakhi_tv" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/boishakhitv.png" group-title="Bangla",Boishakhi TV
+http://172.19.0.18:5000/stream/cloudtv-boishakhi-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bangla_vision" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/banglavision.png" group-title="Bangla",Bangla Vision
+http://172.19.0.18:5000/stream/cloudtv-bangla-vision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="btv" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/btv.png" group-title="Bangla",BTV
+http://172.19.0.18:5000/stream/cloudtv-btv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channel_i" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/channeli.png" group-title="Bangla",Channel I
+http://172.19.0.18:5000/stream/cloudtv-channel-i/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channel_9" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/channel9.png" group-title="Bangla",Channel 9
+http://172.19.0.18:5000/stream/cloudtv-channel-9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="deepto" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/deepto.png" group-title="Bangla",Deepto
+http://172.19.0.18:5000/stream/cloudtv-deepto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lotus" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/lotus.png" group-title="Bangla",Lotus
+http://172.19.0.18:5000/stream/cloudtv-lotus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zee_bangla" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zeebangla.png" group-title="Bangla",Zee Bangla
+http://172.19.0.18:5000/stream/cloudtv-zee-bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="colors_bangla_2" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/colorsbangla.png" group-title="Bangla",Colors Bangla
+http://172.19.0.18:5000/stream/cloudtv-colors-bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_aath" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonyaath.png" group-title="Bangla",Sony Aath
+http://172.19.0.18:5000/stream/cloudtv-sony-aath/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jalsha_movies" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/jalshamovies.png" group-title="Bangla",Jalsha Movies
+http://172.19.0.18:5000/stream/cloudtv-jalsha-movies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zeebanglacinema.png" group-title="Bangla",Zee Bangla Cinema Server 1
+http://172.19.0.18:5000/stream/cloudtv-zee-bangla-cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zeebanglacinema.png" group-title="Bangla",Zee Bangla Cinema Server 2
+http://172.19.0.18:5000/stream/host50-43/playlist.m3u8
+
+#EXTINF:-1 tvg-id="colors_bangla_cinema" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/colorsbanglacinema.png" group-title="Bangla",Colors Bangla Cinema Server 1
+http://172.19.0.18:5000/stream/cloudtv-colors-bangla-cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="colors_bangla_cinema" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/colorsbanglacinema.png" group-title="Bangla",Colors Bangla Cinema Server 2
+http://172.19.0.18:5000/stream/host50-47/playlist.m3u8
+
+#EXTINF:-1 tvg-id="enterr10_bangla" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/enterr10bangla.png" group-title="Bangla",Enterr10 Bangla
+http://172.19.0.18:5000/stream/cloudtv-enterr10-bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sun_bangla" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sunbangla.png" group-title="Bangla",Sun Bangla
+http://172.19.0.18:5000/stream/cloudtv-sun-bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="duronto" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/duronto.png" group-title="Bangla",Duronto
+http://172.19.0.18:5000/stream/cloudtv-duronto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sangeet_bangla" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sangeetbangla.png" group-title="Bangla",Sangeet Bangla
+http://172.19.0.18:5000/stream/cloudtv-sangeet-bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="atn_news" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/atnnews.png" group-title="Bangla",ATN News
+http://172.19.0.18:5000/stream/cloudtv-atn-news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="btv_news" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/btvnews.png" group-title="Bangla",BTV News
+http://172.19.0.18:5000/stream/cloudtv-btv-news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channel_24" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/channel24.png" group-title="Bangla",Channel 24
+http://172.19.0.18:5000/stream/cloudtv-channel-24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dbc" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/dbc.png" group-title="Bangla",DBC
+http://172.19.0.18:5000/stream/cloudtv-dbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ekhon" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/ekhon.png" group-title="Bangla",Ekhon
+http://172.19.0.18:5000/stream/cloudtv-ekhon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="independent" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/independent.png" group-title="Bangla",Independent Server 1
+http://172.19.0.18:5000/stream/cloudtv-independent/playlist.m3u8
+
+#EXTINF:-1 tvg-id="independent" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/independent.png" group-title="Bangla",Independent Server 2
+http://172.19.0.18:5000/stream/host50-77/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jamuna_tv" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/jamunatv.png" group-title="Bangla",Jamuna TV Server 1
+http://172.19.0.18:5000/stream/cloudtv-jamuna-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jamuna_tv" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/jamunatv.png" group-title="Bangla",Jamuna TV Server 2
+http://172.19.0.18:5000/stream/host50-76/playlist.m3u8
+
+#EXTINF:-1 tvg-id="news_24" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/news24.png" group-title="Bangla",News 24
+http://172.19.0.18:5000/stream/cloudtv-news-24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="somoy_tv" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/somoytv.png" group-title="Bangla",Somoy TV
+http://172.19.0.18:5000/stream/cloudtv-somoy-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="peace_tv_bangla" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/peacetvbangla.png" group-title="Bangla",Peace TV Bangla
+http://172.19.0.18:5000/stream/cloudtv-peace-tv-bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="islam_channel_bangla" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/islamchannelbangla.png" group-title="Bangla",Islam Channel Bangla
+http://172.19.0.18:5000/stream/cloudtv-islam-channel-bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="atn_bangla_hd_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/atnbangla.png" group-title="Bangla",ATN Bangla HD
+http://172.19.0.18:5000/stream/host50-80/playlist.m3u8
+
+#EXTINF:-1 tvg-id="atn_news_hd_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/atnnews.png" group-title="Bangla",ATN News HD
+http://172.19.0.18:5000/stream/host50-95/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channel_i_hd_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/channeli.png" group-title="Bangla",Channel i HD
+http://172.19.0.18:5000/stream/host50-81/playlist.m3u8
+
+#EXTINF:-1 tvg-id="colors_bangla_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/colorsbangla.png" group-title="Bangla",COLORS BANGLA HD
+http://172.19.0.18:5000/stream/host50-12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jalsha_movies_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/jalshamovies.png" group-title="Bangla",JALSHA MOVIES HD
+http://172.19.0.18:5000/stream/host50-19/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lotus_tv_hd_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/lotus.png" group-title="Bangla",Lotus TV HD
+http://172.19.0.18:5000/stream/host50-91/playlist.m3u8
+
+#EXTINF:-1 tvg-id="madani_tv_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/madanichannelbangla.png" group-title="Bangla",MADANI TV HD
+http://172.19.0.18:5000/stream/host50-83/playlist.m3u8
+
+#EXTINF:-1 tvg-id="peace_tv_bangla_hd_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/peacetvbangla.png" group-title="Bangla",Peace TV Bangla HD
+http://172.19.0.18:5000/stream/host50-86/playlist.m3u8
+
+#EXTINF:-1 tvg-id="somoy_tv_hd_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/somoytv.png" group-title="Bangla",Somoy TV HD
+http://172.19.0.18:5000/stream/host50-79/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_aat" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonyaath.png" group-title="Bangla",SONY AAT
+http://172.19.0.18:5000/stream/host50-44/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_jalsha_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starjalsha.png" group-title="Bangla",STAR JALSHA HD
+http://172.19.0.18:5000/stream/host50-18/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sun_bangla_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sunbangla.png" group-title="Bangla",SUN BANGLA HD
+http://172.19.0.18:5000/stream/host50-17/playlist.m3u8
+
+#EXTINF:-1 tvg-id="t_sports" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/tsports.png" group-title="Bangla",T Sports
+http://172.19.0.18:5000/stream/cloudtv-t-sports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="t_sports_hd_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/tsports.png" group-title="Bangla",T Sports HD
+http://172.19.0.18:5000/stream/host50-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zee_bangla_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zeebangla.png" group-title="Bangla",ZEE BANGLA HD
+http://172.19.0.18:5000/stream/host50-14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="duranta_tv" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/duronto.png" group-title="Bangla",DURANTA TV
+http://172.19.0.18:5000/stream/host50-68/playlist.m3u8
+
+=========================================
+=== URDU CHANNELS (উর্দু চ্যানেলসমূহ) ===
+=========================================
+
+#EXTINF:-1 tvg-id="ptv_sports" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/ptvsports.png" group-title="Urdu",PTV Sports
+http://172.19.0.18:5000/stream/cloudtv-ptv-sports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="geo_news" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/geonews.png" group-title="Urdu",Geo News
+http://172.19.0.18:5000/stream/cloudtv-geo-news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hum_tv" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/humtv.png" group-title="Urdu",Hum TV
+http://172.19.0.18:5000/stream/cloudtv-hum-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a_sports_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/asports.png" group-title="Urdu",A SPORTS HD
+http://172.19.0.18:5000/stream/host50-88/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fast_sports_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/fastsports.png" group-title="Urdu",FAST SPORTS HD
+http://172.19.0.18:5000/stream/host50-87/playlist.m3u8
+
+#EXTINF:-1 tvg-id="geo_news_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/geonews.png" group-title="Urdu",GEO NEWS HD
+http://172.19.0.18:5000/stream/host50-90/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hum_masala" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/hummasala.png" group-title="Urdu",Hum Masala
+http://172.19.0.18:5000/stream/host50-89/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ptv_sports_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/ptvsports.png" group-title="Urdu",PTV SPORTS HD
+http://172.19.0.18:5000/stream/host50-92/playlist.m3u8
+
+=============================================
+=== SPORTS CHANNELS (স্পোর্টস চ্যানেলসমূহ) ===
+=============================================
+
+#EXTINF:-1 tvg-id="eurosport" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/eurosport.png" group-title="Sports",Eurosport
+http://172.19.0.18:5000/stream/cloudtv-eurosport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_ten_5" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonysportsten5.png" group-title="Sports",Sony Sports Ten 5
+http://172.19.0.18:5000/stream/cloudtv-sony-sports-ten-5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_select_1" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starsportsselect1.png" group-title="Sports",Star Sports Select 1
+http://172.19.0.18:5000/stream/cloudtv-star-sports-select-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_ten_2" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonysportsten2.png" group-title="Sports",Sony Sports Ten 2
+http://172.19.0.18:5000/stream/cloudtv-sony-sports-ten-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_1" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starsports1.png" group-title="Sports",Star Sports 1
+http://172.19.0.18:5000/stream/cloudtv-star-sports-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_2" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starsports2.png" group-title="Sports",Star Sports 2
+http://172.19.0.18:5000/stream/cloudtv-star-sports-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_3" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starsports3.png" group-title="Sports",Star Sports 3 Server 1
+http://172.19.0.18:5000/stream/cloudtv-star-sports-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_3" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starsports3.png" group-title="Sports",Star Sports 3 Server 2
+http://172.19.0.18:5000/stream/host50-31/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_select_2" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starsportsselect2.png" group-title="Sports",Star Sports Select 2
+http://172.19.0.18:5000/stream/cloudtv-star-sports-select-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_ten_1" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonysportsten1.png" group-title="Sports",Sony Sports Ten 1
+http://172.19.0.18:5000/stream/cloudtv-sony-sports-ten-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_ten_3" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonysportsten3.png" group-title="Sports",Sony Sports Ten 3
+http://172.19.0.18:5000/stream/cloudtv-sony-sports-ten-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_ten_4" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonysportsten4.png" group-title="Sports",Sony Sports Ten 4
+http://172.19.0.18:5000/stream/cloudtv-sony-sports-ten-4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fifa_s0_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/fifa_ott_stream_icon.png" group-title="Sports",FIFA (S0)
+http://172.19.0.18:5000/stream/cloudtv-fifa-s0-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eurosports_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/eurosport.png" group-title="Sports",EUROSPORTS HD
+http://172.19.0.18:5000/stream/host50-40/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonysportsten1.png" group-title="Sports",SONY SPORTS 1 HD
+http://172.19.0.18:5000/stream/host50-74/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonysportsten3.png" group-title="Sports",SONY SPORTS 3
+http://172.19.0.18:5000/stream/host50-30/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_4" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonysportsten4.png" group-title="Sports",SONY SPORTS 4
+http://172.19.0.18:5000/stream/host50-72/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonysportsten5.png" group-title="Sports",SONY SPORTS 5 HD
+http://172.19.0.18:5000/stream/host50-101/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_sports_select_1_hd_in" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starsportsselect1.png" group-title="Sports",Star Sports Select 1 HD
+http://172.19.0.18:5000/stream/host50-28/playlist.m3u8
+
+=============================================
+=== OTHER CHANNELS (অন্যান্য চ্যানেলসমূহ) ===
+=============================================
+
+#EXTINF:-1 tvg-id="star_plus" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starplus.png" group-title="Entertainment",Star Plus
+http://172.19.0.18:5000/stream/cloudtv-star-plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zee_tv" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zeetv.png" group-title="Entertainment",Zee TV
+http://172.19.0.18:5000/stream/cloudtv-zee-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_entertainment_television" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonyentertainmenttelevision.png" group-title="Entertainment",Sony Entertainment Television
+http://172.19.0.18:5000/stream/cloudtv-sony-entertainment-television/playlist.m3u8
+
+#EXTINF:-1 tvg-id="colors" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/colors.png" group-title="Entertainment",Colors
+http://172.19.0.18:5000/stream/cloudtv-colors/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_bharat" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starbharat.png" group-title="Entertainment",Star Bharat
+http://172.19.0.18:5000/stream/cloudtv-star-bharat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zoom" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zoom.png" group-title="Entertainment",Zoom
+http://172.19.0.18:5000/stream/cloudtv-zoom/playlist.m3u8
+
+#EXTINF:-1 tvg-id="colors_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/colors.png" group-title="Entertainment",COLORS HD
+http://172.19.0.18:5000/stream/host50-4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_ent_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonyentertainmenttelevision.png" group-title="Entertainment",SONY ENT HD
+http://172.19.0.18:5000/stream/host50-11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_bharat_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starbharat.png" group-title="Entertainment",STAR BHARAT HD
+http://172.19.0.18:5000/stream/host50-100/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zee_tv_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zeetv.png" group-title="Entertainment",ZEE TV HD
+http://172.19.0.18:5000/stream/host50-7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zoom_music_in" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zoom.png" group-title="Entertainment",Zoom Music
+http://172.19.0.18:5000/stream/host50-42/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_pix" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonypix.png" group-title="Movies",Sony Pix
+http://172.19.0.18:5000/stream/cloudtv-sony-pix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="flix" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/andflix.png" group-title="Movies",&flix Server 1
+http://172.19.0.18:5000/stream/cloudtv-flix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="flix" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/andflix.png" group-title="Movies",&flix Server 2
+http://172.19.0.18:5000/stream/host50-35/playlist.m3u8
+
+#EXTINF:-1 tvg-id="prive" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/andprive.png" group-title="Movies",&prive
+http://172.19.0.18:5000/stream/cloudtv-prive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mn" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/mnplus.png" group-title="Movies",MN+
+http://172.19.0.18:5000/stream/cloudtv-mn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mnx" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/mnx.png" group-title="Movies",MNX
+http://172.19.0.18:5000/stream/cloudtv-mnx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="movies_now" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/moviesnow.png" group-title="Movies",Movies Now
+http://172.19.0.18:5000/stream/cloudtv-movies-now/playlist.m3u8
+
+#EXTINF:-1 tvg-id="romedy_now" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/romedynow.png" group-title="Movies",Romedy Now Server 1
+http://172.19.0.18:5000/stream/cloudtv-romedy-now/playlist.m3u8
+
+#EXTINF:-1 tvg-id="romedy_now" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/romedynow.png" group-title="Movies",Romedy Now Server 2
+http://172.19.0.18:5000/stream/host50-34/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_movies" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starmovies.png" group-title="Movies",Star Movies
+http://172.19.0.18:5000/stream/cloudtv-star-movies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_movies_select" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starmoviesselect.png" group-title="Movies",Star Movies Select
+http://172.19.0.18:5000/stream/cloudtv-star-movies-select/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_gold" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/stargold.png" group-title="Movies",Star Gold
+http://172.19.0.18:5000/stream/cloudtv-star-gold/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zee_cinema_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zeecinema.png" group-title="Movies",Zee Cinema HD Server 1
+http://172.19.0.18:5000/stream/cloudtv-zee-cinema-hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zee_cinema_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zeecinema.png" group-title="Movies",Zee Cinema HD Server 2
+http://172.19.0.18:5000/stream/host50-13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zee_cinema" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zeecinema.png" group-title="Movies",Zee Cinema
+http://172.19.0.18:5000/stream/cloudtv-zee-cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="and_prive_hd_in" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/andprive.png" group-title="Movies",And Prive HD
+http://172.19.0.18:5000/stream/host50-41/playlist.m3u8
+
+#EXTINF:-1 tvg-id="axn_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/axn.png" group-title="Movies",AXN HD
+http://172.19.0.18:5000/stream/host50-97/playlist.m3u8
+
+#EXTINF:-1 tvg-id="colors_cineplex_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/colorscineplex.png" group-title="Movies",COLORS CINEPLEX HD
+http://172.19.0.18:5000/stream/host50-10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mn_plus_hd_in" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/mnplus.png" group-title="Movies",MN Plus HD
+http://172.19.0.18:5000/stream/host50-36/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mnx_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/mnx.png" group-title="Movies",MNX HD
+http://172.19.0.18:5000/stream/host50-33/playlist.m3u8
+
+#EXTINF:-1 tvg-id="movies_now_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/moviesnow.png" group-title="Movies",MOVIES NOW HD
+http://172.19.0.18:5000/stream/host50-39/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_max_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonymax.png" group-title="Movies",Sony Max HD
+http://172.19.0.18:5000/stream/host50-21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_pix_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonypix.png" group-title="Movies",SONY PIX HD
+http://172.19.0.18:5000/stream/host50-32/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_gold_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/stargold.png" group-title="Movies",STAR GOLD HD Server 1
+http://172.19.0.18:5000/stream/host50-20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_gold_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/stargold.png" group-title="Movies",STAR GOLD HD Server 2
+http://172.19.0.18:5000/stream/host50-69/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_movies_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starmovies.png" group-title="Movies",STAR MOVIES HD
+http://172.19.0.18:5000/stream/host50-38/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zee_cafe_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zeecafe.png" group-title="Movies",ZEE CAFE HD
+http://172.19.0.18:5000/stream/host50-37/playlist.m3u8
+
+#EXTINF:-1 tvg-id="and_picturs_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/andpictures.png" group-title="Movies",AND PICTURS HD
+http://172.19.0.18:5000/stream/host50-5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star_movies_select_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/starmoviesselect.png" group-title="Movies",STAR MOVIES SELECT HD
+http://172.19.0.18:5000/stream/host50-27/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery_turbo" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/discoveryturbo.png" group-title="Infotainment",Discovery Turbo
+http://172.19.0.18:5000/stream/cloudtv-axn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animal_planet_2" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/animalplanet.png" group-title="Infotainment",Animal Planet
+http://172.19.0.18:5000/stream/cloudtv-animal-planet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbc_earth" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/bbcearth.png" group-title="Infotainment",BBC Earth
+http://172.19.0.18:5000/stream/cloudtv-bbc-earth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/discovery.png" group-title="Infotainment",Discovery
+http://172.19.0.18:5000/stream/cloudtv-discovery/playlist.m3u8
+
+#EXTINF:-1 tvg-id="history_tv18" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/historytv18.png" group-title="Infotainment",History TV18
+http://172.19.0.18:5000/stream/cloudtv-history-tv18/playlist.m3u8
+
+#EXTINF:-1 tvg-id="investigation_discovery" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/investigationdiscovery.png" group-title="Infotainment",Investigation Discovery
+http://172.19.0.18:5000/stream/cloudtv-investigation-discovery/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nat_geo_wild" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/natgeowild.png" group-title="Infotainment",Nat Geo Wild
+http://172.19.0.18:5000/stream/cloudtv-nat-geo-wild/playlist.m3u8
+
+#EXTINF:-1 tvg-id="national_geographic" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/nationalgeographic.png" group-title="Infotainment",National Geographic
+http://172.19.0.18:5000/stream/cloudtv-national-geographic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animal_planet_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/animalplanet.png" group-title="Infotainment",ANIMAL PLANET HD
+http://172.19.0.18:5000/stream/host50-26/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbc_earth_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/bbcearth.png" group-title="Infotainment",BBC EARTH HD
+http://172.19.0.18:5000/stream/host50-102/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/discovery.png" group-title="Infotainment",DISCOVERY HD
+http://172.19.0.18:5000/stream/host50-22/playlist.m3u8
+
+#EXTINF:-1 tvg-id="natgeo_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/nationalgeographic.png" group-title="Infotainment",NATGEO HD
+http://172.19.0.18:5000/stream/host50-25/playlist.m3u8
+
+#EXTINF:-1 tvg-id="natgeo_wild_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/natgeowild.png" group-title="Infotainment",NATGEO WILD HD
+http://172.19.0.18:5000/stream/host50-23/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_bbc_earth_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonybbcearth.png" group-title="Infotainment",SONY BBC EARTH HD
+http://172.19.0.18:5000/stream/host50-6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tlc_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/tlc.png" group-title="Infotainment",TLC HD
+http://172.19.0.18:5000/stream/host50-9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="etv_bal_bharat" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/etvbalbharat.png" group-title="Kids",ETV Bal Bharat Server 1
+http://172.19.0.18:5000/stream/cloudtv-etv-bal-bharat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="etv_bal_bharat" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/etvbalbharat.png" group-title="Kids",ETV Bal Bharat Server 2
+http://172.19.0.18:5000/stream/host50-50/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cartoon_network_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/cartoonnetworkhdplus.png" group-title="Kids",Cartoon Network HD+ Server 1
+http://172.19.0.18:5000/stream/cloudtv-cartoon-network-hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cartoon_network_hd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/cartoonnetworkhdplus.png" group-title="Kids",Cartoon Network HD+ Server 2
+http://172.19.0.18:5000/stream/host50-8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cartoon_network" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/cartoonnetwork.png" group-title="Kids",Cartoon Network
+http://172.19.0.18:5000/stream/cloudtv-cartoon-network/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery_kids" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/discoverykids.png" group-title="Kids",Discovery Kids
+http://172.19.0.18:5000/stream/cloudtv-discovery-kids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hungama" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/hungama.png" group-title="Kids",Hungama Server 1
+http://172.19.0.18:5000/stream/cloudtv-hungama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hungama" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/hungama.png" group-title="Kids",Hungama Server 2
+http://172.19.0.18:5000/stream/host50-49/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nick" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/nick.png" group-title="Kids",Nick Server 1
+http://172.19.0.18:5000/stream/cloudtv-nick/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nick" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/nick.png" group-title="Kids",Nick Server 2
+http://172.19.0.18:5000/stream/host50-46/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nick_jr" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/nickjr.png" group-title="Kids",Nick Jr Server 1
+http://172.19.0.18:5000/stream/cloudtv-nick-jr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nick_jr" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/nickjr.png" group-title="Kids",Nick Jr Server 2
+http://172.19.0.18:5000/stream/host50-51/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pogo" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/pogo.png" group-title="Kids",Pogo Server 1
+http://172.19.0.18:5000/stream/cloudtv-pogo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pogo" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/pogo.png" group-title="Kids",Pogo Server 2
+http://172.19.0.18:5000/stream/host50-48/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonic" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonic.png" group-title="Kids",Sonic Server 1
+http://172.19.0.18:5000/stream/cloudtv-sonic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonic" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonic.png" group-title="Kids",Sonic Server 2
+http://172.19.0.18:5000/stream/host50-45/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony_yay" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/sonyyay.png" group-title="Kids",Sony Yay
+http://172.19.0.18:5000/stream/host50-93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="super_hungama" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/superhungama.png" group-title="Kids",Super Hungama
+http://172.19.0.18:5000/stream/host50-75/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zing" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zing.png" group-title="Music",Zing Server 1
+http://172.19.0.18:5000/stream/cloudtv-zing/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zing" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/zing.png" group-title="Music",Zing Server 2
+http://172.19.0.18:5000/stream/host50-53/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbc_news" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/bbcnews.png" group-title="News",BBC News
+http://172.19.0.18:5000/stream/host50-55/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channel_24_hd_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/channel24.png" group-title="Imported",Channel 24 HD
+http://172.19.0.18:5000/stream/host50-82/playlist.m3u8
+
+#EXTINF:-1 tvg-id="travelxp_hd_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/travelxp-squarelogo-1629962343074.png" group-title="Imported",Travelxp HD
+http://172.19.0.18:5000/stream/host50-62/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera_hd_in" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/Aljazeera-logo-English-1024x768.png" group-title="Imported",Aljazeera HD
+http://172.19.0.18:5000/stream/host50-85/playlist.m3u8
+
+#EXTINF:-1 tvg-id="masranga_tv_hd_bd" tvg-logo="https://ruralnetisp.com/deshi_assets/channel-icons/images" group-title="Imported",Masranga TV HD
+http://172.19.0.18:5000/stream/host50-78/playlist.m3u8
